@@ -1,2 +1,2 @@
-# class-30
-fade pigs by using tint
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
